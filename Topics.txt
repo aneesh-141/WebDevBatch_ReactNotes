@@ -1,0 +1,46 @@
+installion* 
+create-react-app* 
+globally install* 
+what are package managers *
+starting a react application *
+folder structure *
+flow of code *
+runing our own code *  
+component inside (class) appjs *
+Creating component folders and Managing it* 
+React Fragment*
+Component arrangement inside App JS  
+
+Installing External New Libraries in React project 
+package.lock.json. What is it? 
+
+CSS Implementation: 
+1) External 
+2) Inline 
+
+1) Class Components: 
+1) Class Component Structure *..  
+2) Exporting*
+     Exporting multiple components from same file*
+3) Constructor 
+4) State 
+5) Props 
+6) Changing of State inside a class Component  
+7) Class Component Hooks  
+   Eg: Component did mount, did update  
+
+2) Functional Component  
+   1) File Component Structure
+   2) State 
+   3) props 
+   4) Changing of State inside a functional Component 
+   5) HOOKS 
+
+Commucation: Parent to children 
+Reverse using functions  
+
+Switching (Routing) 
+Axios(Fetching Data from API)
+ 
+State-Management: REDUX
+solution   
