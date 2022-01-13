@@ -1,0 +1,8 @@
+npm start  //Script 
+"start": "react-scripts start",
+
+
+npm install bootstrap@4.1.1
+
+
+ 

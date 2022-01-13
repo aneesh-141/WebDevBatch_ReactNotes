@@ -14,18 +14,18 @@ Component arrangement inside App JS
 Installing External New Libraries in React project 
 package.lock.json. What is it? 
 
-CSS Implementation: 
-1) External 
-2) Inline 
+CSS Implementation:*
+1) External* 
+2) Inline* 
 
 1) Class Components: 
-1) Class Component Structure *..  
+1) Class Component Structure*..  
 2) Exporting*
      Exporting multiple components from same file*
-3) Constructor 
-4) State 
+3) Constructor* 
+4) State* 
 5) Props 
-6) Changing of State inside a class Component  
+6) Changing of State inside a class Component*  
 7) Class Component Hooks  
    Eg: Component did mount, did update  
 

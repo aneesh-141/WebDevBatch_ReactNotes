@@ -9,8 +9,11 @@ class App extends Component {
   render() { 
     return (
     <React.Fragment>
-     <SecondComp/>
+      <SecondComp/>
       <FirstComp/>
+      <SecondComp/>
+      <SecondComp/>
+      <SecondComp/>
     </React.Fragment>
 );
   }
