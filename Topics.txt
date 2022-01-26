@@ -26,20 +26,21 @@ CSS Implementation:*
 4) State* 
 5) Props 
 6) Changing of State inside a class Component*  
-7) Class Component Hooks  
+7) Class Component Life Cycle(hooks)7 types 
    Eg: Component did mount, did update  
 
-2) Functional Component  
+2) Hooks: Functional Component  
    1) File Component Structure
    2) State 
    3) props 
    4) Changing of State inside a functional Component 
    5) HOOKS 
 
-Commucation: Parent to children 
-Reverse using functions  
+Communication: Parent to children*
+Child to Parent* 
 
-Switching (Routing) 
+Switching 
+Routing 
 Axios(Fetching Data from API)
  
 State-Management: REDUX
